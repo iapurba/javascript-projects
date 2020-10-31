@@ -51,7 +51,6 @@ body {
 }
 .button-container {
     margin-top: 40px;
-    /* display: flex; */
     min-height: 15vh;
     justify-content: left;
 }
